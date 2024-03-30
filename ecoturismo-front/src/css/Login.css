@@ -1,0 +1,62 @@
+section{
+  margin-top: 100px;
+}
+.login{
+    background-image: url('./../images/background.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:100%;
+    height: 100vh;
+  }
+  .formulario-h2{
+    padding-top:50px;
+    font-weight: 400;
+    color: #574444;
+    font-family: "Nunito", sans-serif;
+    text-shadow: 1px 2px 2px rgba(0,0,0,0.56);
+    
+  }
+  .formulario{
+    background: rgba(255, 255, 255, 0.87);
+    border-radius: 50px;
+    width: 497px;
+    height: 554px;
+    
+  }
+
+  .formulario-input input::placeholder {
+    text-align: center;
+  }
+  
+  .formulario-input{
+    border-radius: 20px;
+    border-width: 1px;
+    border-style:solid;
+    border-color: gray;
+    height: 67px;
+    width: 404px;
+  }
+  
+  .botoncito{
+    
+    background-color: #00A09A;
+    color: white;
+    font-size: 30px;
+    border-radius: 40px;
+    width:404px;
+    height:67px;
+    border: none;
+  }
+  .botoncito.btn-registrarse{
+    color: rgb(77, 77, 77);
+    background-color: white;
+    border-width: 1px;
+    border-style: solid;
+    font-weight: 100;
+  }
+  #bienvenida{
+   max-width: 600px;
+   font-size: 50px;
+   font-weight:600;
+  }
+  

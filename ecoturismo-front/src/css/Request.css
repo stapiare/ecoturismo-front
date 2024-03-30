@@ -1,0 +1,7 @@
+.request{
+    background-image: url('../images/solicitud-background.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:100%;
+    height: 100vh;
+}
